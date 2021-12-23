@@ -1,0 +1,9 @@
+D:\Bi\Bi Homework\DTA\week16\SSAlgorithmVisualizer\SSAlgorithmVisualizer\bin\Debug\SSAlgorithmVisualizer.exe.config
+D:\Bi\Bi Homework\DTA\week16\SSAlgorithmVisualizer\SSAlgorithmVisualizer\bin\Debug\SSAlgorithmVisualizer.exe
+D:\Bi\Bi Homework\DTA\week16\SSAlgorithmVisualizer\SSAlgorithmVisualizer\bin\Debug\SSAlgorithmVisualizer.pdb
+D:\Bi\Bi Homework\DTA\week16\SSAlgorithmVisualizer\SSAlgorithmVisualizer\obj\Debug\SSAlgorithmVisualizer.csprojResolveAssemblyReference.cache
+D:\Bi\Bi Homework\DTA\week16\SSAlgorithmVisualizer\SSAlgorithmVisualizer\obj\Debug\SSAlgorithmVisualizer.Form1.resources
+D:\Bi\Bi Homework\DTA\week16\SSAlgorithmVisualizer\SSAlgorithmVisualizer\obj\Debug\SSAlgorithmVisualizer.Properties.Resources.resources
+D:\Bi\Bi Homework\DTA\week16\SSAlgorithmVisualizer\SSAlgorithmVisualizer\obj\Debug\SSAlgorithmVisualizer.csproj.GenerateResource.Cache
+D:\Bi\Bi Homework\DTA\week16\SSAlgorithmVisualizer\SSAlgorithmVisualizer\obj\Debug\SSAlgorithmVisualizer.exe
+D:\Bi\Bi Homework\DTA\week16\SSAlgorithmVisualizer\SSAlgorithmVisualizer\obj\Debug\SSAlgorithmVisualizer.pdb
