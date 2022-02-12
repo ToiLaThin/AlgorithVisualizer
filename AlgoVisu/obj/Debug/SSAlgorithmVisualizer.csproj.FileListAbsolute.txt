@@ -1,0 +1,9 @@
+D:\Bi\Bi Homework\On C#\AlgoVisu\AlgoVisu\bin\Debug\AlgoVisu.exe.config
+D:\Bi\Bi Homework\On C#\AlgoVisu\AlgoVisu\bin\Debug\AlgoVisu.exe
+D:\Bi\Bi Homework\On C#\AlgoVisu\AlgoVisu\bin\Debug\AlgoVisu.pdb
+D:\Bi\Bi Homework\On C#\AlgoVisu\AlgoVisu\obj\Debug\SSAlgorithmVisualizer.csprojResolveAssemblyReference.cache
+D:\Bi\Bi Homework\On C#\AlgoVisu\AlgoVisu\obj\Debug\SSAlgorithmVisualizer.Form1.resources
+D:\Bi\Bi Homework\On C#\AlgoVisu\AlgoVisu\obj\Debug\SSAlgorithmVisualizer.Properties.Resources.resources
+D:\Bi\Bi Homework\On C#\AlgoVisu\AlgoVisu\obj\Debug\SSAlgorithmVisualizer.csproj.GenerateResource.Cache
+D:\Bi\Bi Homework\On C#\AlgoVisu\AlgoVisu\obj\Debug\AlgoVisu.exe
+D:\Bi\Bi Homework\On C#\AlgoVisu\AlgoVisu\obj\Debug\AlgoVisu.pdb
