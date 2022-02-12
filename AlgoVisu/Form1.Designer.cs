@@ -166,7 +166,7 @@
             this.ClientSize = new System.Drawing.Size(399, 358);
             this.Controls.Add(this.panel1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "SSAlgorithmVisualizer";
             this.Resize += new System.EventHandler(this.btnReset_Click);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();

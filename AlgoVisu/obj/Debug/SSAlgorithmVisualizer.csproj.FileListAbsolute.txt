@@ -7,3 +7,12 @@ D:\Bi\Bi Homework\On C#\AlgoVisu\AlgoVisu\obj\Debug\SSAlgorithmVisualizer.Proper
 D:\Bi\Bi Homework\On C#\AlgoVisu\AlgoVisu\obj\Debug\SSAlgorithmVisualizer.csproj.GenerateResource.Cache
 D:\Bi\Bi Homework\On C#\AlgoVisu\AlgoVisu\obj\Debug\AlgoVisu.exe
 D:\Bi\Bi Homework\On C#\AlgoVisu\AlgoVisu\obj\Debug\AlgoVisu.pdb
+C:\Users\anbinh\Desktop\3\AlgorithVisualizer\AlgoVisu\bin\Debug\AlgoVisu.exe.config
+C:\Users\anbinh\Desktop\3\AlgorithVisualizer\AlgoVisu\obj\Debug\AlgoVisu.exe
+C:\Users\anbinh\Desktop\3\AlgorithVisualizer\AlgoVisu\obj\Debug\AlgoVisu.pdb
+C:\Users\anbinh\Desktop\3\AlgorithVisualizer\AlgoVisu\bin\Debug\AlgoVisu.exe
+C:\Users\anbinh\Desktop\3\AlgorithVisualizer\AlgoVisu\bin\Debug\AlgoVisu.pdb
+C:\Users\anbinh\Desktop\3\AlgorithVisualizer\AlgoVisu\obj\Debug\SSAlgorithmVisualizer.csprojResolveAssemblyReference.cache
+C:\Users\anbinh\Desktop\3\AlgorithVisualizer\AlgoVisu\obj\Debug\SSAlgorithmVisualizer.Form1.resources
+C:\Users\anbinh\Desktop\3\AlgorithVisualizer\AlgoVisu\obj\Debug\SSAlgorithmVisualizer.Properties.Resources.resources
+C:\Users\anbinh\Desktop\3\AlgorithVisualizer\AlgoVisu\obj\Debug\SSAlgorithmVisualizer.csproj.GenerateResource.Cache
